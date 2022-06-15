@@ -1,5 +1,12 @@
 // 1. feladat
-//fügvénnyel 
+//függvénnyel 
+
+function diakINFO(nev:string, csoport:number, tipus:boolean):void{
+    
+    return nev;
+}
+diakINFO("Fulajtár Mónika")
+
 
 document.write("<br>")
 
@@ -17,13 +24,14 @@ document.write("<hr>")
 document.write("<hr>");
 
 
-var SzovegesErtekeles;
 function SzovegesErtekeles():void{
 SzovegesErtekeles = [5, "Példás" , "Példás"];
 SzovegesErtekeles = [4, "Jó" , "Jó"];
 SzovegesErtekeles = [3, "Változó" , "Változó"];
 SzovegesErtekeles = [2, "Hanyag" , "Hanyag"];
 }
+
+
 
 */
 
