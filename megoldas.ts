@@ -1,5 +1,5 @@
 // 1. feladat
-//függvénnyel 
+//függvénnyel nem tudom 
 
 function diakINFO(nev:string, csoport:number, tipus:boolean):void{
     
@@ -17,25 +17,25 @@ document.write("<br>")
 document.write("<hr>")
 
 
-/*   2. feladat
+//   2. feladat
 
 
 
 document.write("<hr>");
 
 
-function SzovegesErtekeles():void{
-SzovegesErtekeles = [5, "Példás" , "Példás"];
-SzovegesErtekeles = [4, "Jó" , "Jó"];
-SzovegesErtekeles = [3, "Változó" , "Változó"];
-SzovegesErtekeles = [2, "Hanyag" , "Hanyag"];
-}
+var szovegesErtekeles:[number, string, string];
+szovegesErtekeles5=[5, "Példás" ,"Példás"]
+szovegesErtekeles4=[4, "Példás" ,"Példás"]
+szovegesErtekeles3=[3, "Példás" ,"Példás"]
+szovegesErtekeles2=[2, "Példás" ,"Példás"]
 
-
-
-*/
-
-   
+function SzovegesErtekeles(jegy){
+    
+    return jegy;
+        
+    }
+   szovegesErtekeles[szovegesErtekeles2[1,2]]
 
 
 // 3. feladat
